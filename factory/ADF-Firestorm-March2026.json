@@ -1,0 +1,9 @@
+{
+	"name": "ADF-Firestorm-March2026",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4992017c-b0ae-4a3c-84e1-155456b30eb3",
+		"tenantId": "043ae95b-961b-4bba-8d82-569cc035af78"
+	}
+}
